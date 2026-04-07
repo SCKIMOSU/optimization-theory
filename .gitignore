@@ -1,0 +1,14 @@
+# 바이너리 / 대용량 파일
+*.pdf
+*.gif
+*.mp4
+*.m4a
+*.pptx
+*.xlsx
+*.zip
+
+# 디렉토리
+ppt/
+chatgpt/
+gamma ai/
+부교재_*/
